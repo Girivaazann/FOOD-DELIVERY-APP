@@ -26,13 +26,12 @@ JavaScript (Vanilla) – Cart functionality, dynamic UI updates
 https://react-quick-food.firebaseapp.com 
 
 
-
+<img width="1440" alt="Screenshot 2025-05-07 at 8 34 46 PM" src="https://github.com/user-attachments/assets/472caf7b-b4a3-4459-acc7-e12ba1d07658" />
 <img width="1440" alt="Screenshot 2025-05-07 at 8 34 54 PM" src="https://github.com/user-attachments/assets/a824c27a-9309-492b-8672-af4c7b7fbd58" />
 <img width="1440" alt="Screenshot 2025-05-07 at 8 35 00 PM" src="https://github.com/user-attachments/assets/8c1bcab9-b28d-483c-aa3e-fd2210098c7c" />
 <img width="1440" alt="Screenshot 2025-05-07 at 8 35 08 PM" src="https://github.com/user-attachments/assets/f6fb5629-edf1-47ca-b0c5-3f3830c09236" />
-<img width="1440" alt="Screenshot 2025-05-07 at 8 35 14 PM" src="https://github.com/user-attachments/assets/93b8729a-99d9-4cbc-8368-17efa7c63f84" />
 <img width="1440" alt="Screenshot 2025-05-07 at 8 35 21 PM" src="https://github.com/user-attachments/assets/510729e3-467c-4a99-9f61-90db79c659e5" />
-<img width="1440" alt="Screenshot 2025-05-07 at 8 34 46 PM" src="https://github.com/user-attachments/assets/472caf7b-b4a3-4459-acc7-e12ba1d07658" />
+<img width="1440" alt="Screenshot 2025-05-07 at 8 35 14 PM" src="https://github.com/user-attachments/assets/93b8729a-99d9-4cbc-8368-17efa7c63f84" />
 
 
 
